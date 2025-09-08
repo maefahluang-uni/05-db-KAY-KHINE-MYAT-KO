@@ -16,6 +16,7 @@ In UserRepository, declare the following methods that help to find all user and 
 
 ```
 Your answer
+The file is in /workspaces/05-db-KAY-KHINE-MYAT-KO/src/main/resources/data.sql and it is used to insert initial data into the database when the application starts.
 ```
 
 ## User Reservice - Complete the code
